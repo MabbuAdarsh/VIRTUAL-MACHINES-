@@ -1,6 +1,6 @@
 ## EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Name : MANGARI DEERAJ
-## Reg No : 212223100031
+## Name : MABBU ADARSH
+## Reg No : 212223100028
 ## Aim: To move the files between virtual machine.
   You can move files between virtual machines in several ways:
 •	You can copy files using network utilities as you would between physical computers on your network. To do this between two virtual machine:
@@ -58,4 +58,4 @@ Step 2. Setup File Sharing on VirtualBox Guest Machine.
 
 ## Result:
 
-Thus the virtual machine files are moved to another VM
+Thus the virtual machine files are moved to another VM.
